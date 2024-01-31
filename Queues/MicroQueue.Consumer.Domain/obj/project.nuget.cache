@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "kFUBBhlQfB6d9ZkBZiblVN0saeBqHrK10B2ve7nUxJL3QWM9SRDkOK7AdLBOSHxuZ/RGNO5UMK2XxhIPuXEIrQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lcampos\\source\\repos\\LogCloudApi\\Queues\\MicroQueue.Consumer.Domain\\MicroQueue.Consumer.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lcampos\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\lcampos\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\lcampos\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

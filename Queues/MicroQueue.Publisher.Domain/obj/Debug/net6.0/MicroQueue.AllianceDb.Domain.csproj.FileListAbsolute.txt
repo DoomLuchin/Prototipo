@@ -1,0 +1,15 @@
+C:\Users\lcampos\source\repos\LogCloudApi\Queues\MicroQueue.AllianceDb.Domain\bin\Debug\net6.0\MicroQueue.AllianceDb.Domain.deps.json
+C:\Users\lcampos\source\repos\LogCloudApi\Queues\MicroQueue.AllianceDb.Domain\bin\Debug\net6.0\MicroQueue.AllianceDb.Domain.dll
+C:\Users\lcampos\source\repos\LogCloudApi\Queues\MicroQueue.AllianceDb.Domain\bin\Debug\net6.0\MicroQueue.AllianceDb.Domain.pdb
+C:\Users\lcampos\source\repos\LogCloudApi\Queues\MicroQueue.AllianceDb.Domain\bin\Debug\net6.0\MicroQueue.Domain.Core.dll
+C:\Users\lcampos\source\repos\LogCloudApi\Queues\MicroQueue.AllianceDb.Domain\bin\Debug\net6.0\MicroQueue.Domain.Core.pdb
+C:\Users\lcampos\source\repos\LogCloudApi\Queues\MicroQueue.AllianceDb.Domain\obj\Debug\net6.0\MicroQueue.AllianceDb.Domain.csproj.AssemblyReference.cache
+C:\Users\lcampos\source\repos\LogCloudApi\Queues\MicroQueue.AllianceDb.Domain\obj\Debug\net6.0\MicroQueue.AllianceDb.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lcampos\source\repos\LogCloudApi\Queues\MicroQueue.AllianceDb.Domain\obj\Debug\net6.0\MicroQueue.AllianceDb.Domain.AssemblyInfoInputs.cache
+C:\Users\lcampos\source\repos\LogCloudApi\Queues\MicroQueue.AllianceDb.Domain\obj\Debug\net6.0\MicroQueue.AllianceDb.Domain.AssemblyInfo.cs
+C:\Users\lcampos\source\repos\LogCloudApi\Queues\MicroQueue.AllianceDb.Domain\obj\Debug\net6.0\MicroQueue.AllianceDb.Domain.csproj.CoreCompileInputs.cache
+C:\Users\lcampos\source\repos\LogCloudApi\Queues\MicroQueue.AllianceDb.Domain\obj\Debug\net6.0\MicroQueue.AllianceDb.Domain.csproj.CopyComplete
+C:\Users\lcampos\source\repos\LogCloudApi\Queues\MicroQueue.AllianceDb.Domain\obj\Debug\net6.0\MicroQueue.AllianceDb.Domain.dll
+C:\Users\lcampos\source\repos\LogCloudApi\Queues\MicroQueue.AllianceDb.Domain\obj\Debug\net6.0\refint\MicroQueue.AllianceDb.Domain.dll
+C:\Users\lcampos\source\repos\LogCloudApi\Queues\MicroQueue.AllianceDb.Domain\obj\Debug\net6.0\MicroQueue.AllianceDb.Domain.pdb
+C:\Users\lcampos\source\repos\LogCloudApi\Queues\MicroQueue.AllianceDb.Domain\obj\Debug\net6.0\ref\MicroQueue.AllianceDb.Domain.dll

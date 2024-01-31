@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "CPTb877qiJLR1JyGb5QYz9LeYXhXC5eTpPB3e7OrOO4=",
+  "Source": "ConsumerQueueApi",
+  "BasePath": "_content/ConsumerQueueApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

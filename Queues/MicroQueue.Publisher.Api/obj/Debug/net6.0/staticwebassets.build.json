@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "yVzfNTrEBTFlPFRy4RtTkQxv6ZvVpoZZQqdz67kxVsQ=",
+  "Source": "PublisherQueueApi",
+  "BasePath": "_content/PublisherQueueApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
